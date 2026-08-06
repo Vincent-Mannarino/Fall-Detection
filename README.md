@@ -13,8 +13,11 @@ The project was originally developed as a STEM Fair project, where it won:
  
 Rather than analyzing every pixel in a video frame, the system uses human pose landmarks extracted by MediaPipe. This significantly reduces the amount of data being processed while still providing enough information for accurate fall detection.
  
----
- 
+
+### Example screenshot of program running live
+<img width="408" height="538" alt="Screenshot 2026-04-07 180946" src="https://github.com/user-attachments/assets/cef00c0c-7212-4ce6-bde4-de3455845938" />
+
+--- 
 ## How It Works
  
 1. A webcam video stream is captured using OpenCV.
