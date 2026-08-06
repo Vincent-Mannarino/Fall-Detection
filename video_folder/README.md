@@ -1,4 +1,4 @@
-Video Folder:
+# Video Folder
 
 This folder contains example videos used during development and testing.
 The complete dataset is not included in this repository due to size constraints. These sample videos are provided to demonstrate the expected input format for the fall detection system.
