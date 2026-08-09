@@ -1,3 +1,14 @@
+# 1. Ignore the entire contents of the video dataset folder
+video_folder/*
+
+# 2. Prevent Git from ignoring the folder structure itself
+!video_folder/
+
+# 3. Explicitly allow (do not ignore) my two example videos
+!video_folder/Fall_0.MOV
+!video_folder/Walking_0.MOV
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
