@@ -92,7 +92,7 @@ Install the required dependencies:
 ```bash
 pip install -r requirements.txt
 ```
- 
+Note that the version of mediapipe this project uses in not supported in python 3.11 and newer.
 ---
  
 ## Running the Project
